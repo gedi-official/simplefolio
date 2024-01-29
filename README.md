@@ -17,5 +17,5 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well organized documentation
 
-To view website: **[click here](https://the-simplefolio.netlify.app/)**
+To view website: [click here](https://myportfoliogedi.netlify.app/)
 
