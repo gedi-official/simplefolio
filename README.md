@@ -1,6 +1,6 @@
 # Portfolio ⚡️ 
 
-## My portfolio template website!
+## My portfolio website!
 
 <h2 align="center">
   <img src="https://github.com/cobiwave/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
