@@ -2,11 +2,6 @@
 
 ## My portfolio website!
 
-<h2 align="center">
-  <img src="https://github.com/gedi-official/gatsby-portfolio/blob/master/examples/example.gif" alt="portfolio" width="600px" />
-  <br>
-</h2>
-
 ## Features
 
 ⚡️ Modern UI Design + Reveal Animations\
